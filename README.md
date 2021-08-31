@@ -12,6 +12,8 @@
 ### Languages & Skills
 
 - JavaScript
+- Python
+- C#
 
 ### Statistics
 
